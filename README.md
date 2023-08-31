@@ -1,2 +1,3 @@
-# Algoritmos_e_Estruturas_de_Dados_I
-| Algoritmos e Estruturas de Dados I | Michael da Costa Mora | 2º | 2022/2 | 7.7 | 4645G-04 | 60 |
+| Disciplina | Professor | Semestre Previsto | Ano Cursada | Grau Obtido | CodiCred | Carga Horária |
+| --- | --- | --- | --- | --- | --- | --- |
+| Algoritmos e Estruturas de Dados I | [Michael da Costa Mora](https://github.com/mdmmora) | 2º | 2022/2 | 7.7 | 4645G-04 | 60 |
